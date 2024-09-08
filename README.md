@@ -26,4 +26,4 @@
 
 ## 제2주차(``Hello World`` in Python)
 
--  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W02A.ipynb)
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W02.ipynb)

@@ -27,3 +27,10 @@
 ## 제2주차(``Hello World`` in Python)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W02.ipynb)
+
+
+<br/>
+
+## 제3주차(조건문과 반복문)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W03.ipynb)

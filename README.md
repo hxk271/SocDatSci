@@ -41,3 +41,10 @@
 ## 제4주차(``matplotlib``를 사용한 시각화 입문)
 
 -  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W04.ipynb)
+
+
+<br/>
+
+## 제5주차(인구자료의 탐색)
+
+-  [**강의안**](https://github.com/hxk271/SocDataSci/blob/main/W05.ipynb)
